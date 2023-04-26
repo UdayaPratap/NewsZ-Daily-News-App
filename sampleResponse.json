@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "At least 12 dead after earthquake hits Pakistan and Afghanistan - BBC",
+    "description": "The 6.5 magnitude quake was centred in Afghanistan's remote Jurm valley which is prone to seismic activity.",
+    "url": "https://www.bbc.com/news/world-asia-65034776",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11933/production/_129078917_gettyimages-1249024508.jpg",
+    "publishedAt": "2023-03-22T04:07:59Z",
+    "content": "At least 12 people have been killed and more than 40 injured after a powerful earthquake struck large parts of Pakistan and Afghanistan.\r\nThe 6.5-magnitude quake damaged buildings, triggered landslid… [+1507 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "New York City Braces For Trump Indictment After Ex-President Urges Protests | Dona;d Trump News - CNN-News18",
+    "description": "New York City Braces For Trump Indictment After Ex-President Urges Protests | Dona;d Trump NewsA Manhattan grand jury could bring charges as soon as this wee...",
+    "url": "https://www.youtube.com/watch?v=gi0LVosO880",
+    "urlToImage": "https://i.ytimg.com/vi/gi0LVosO880/maxresdefault_live.jpg",
+    "publishedAt": "2023-03-22T03:25:02Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Steve Almasy",
+    "title": "World Baseball Classic final: Japan wins third title with 3-2 victory over Team USA - CNN",
+    "description": "Japan won the World Baseball Classic on Tuesday night, downing Team USA 3-2 in the championship game at loanDepot Park in Miami.",
+    "url": "https://www.cnn.com/2023/03/21/sport/world-baseball-classic-final-usa-japan-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230321225342-01-japan-baseball-world-classic-win-032123.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-03-22T03:10:00Z",
+    "content": "Japan won the World Baseball Classic on Tuesday night, downing Team USA 3-2 in the championship game at loanDepot Park in Miami. \r\nThe game ended in dramatic fashion with Japans Shohei Ohtani strikin… [+1795 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "Tekashi 6ix9ine Severely Beaten in Ambush Attack in Gym Sauna, Rushed to Hospital - TMZ",
+    "description": "Tekashi 6ix9ine left bruised and bloodied after ambush attack inside gym sauna.",
+    "url": "https://www.tmz.com/2023/03/21/tekashi-6ix9ine-attack-florida-gym-sauna-ambush-hospitalized/",
+    "urlToImage": "https://imagez.tmz.com/image/71/16by9/2023/03/22/718371679c2f44aab9287bdc1a437352_xl.jpg",
+    "publishedAt": "2023-03-22T02:51:31Z",
+    "content": "9:03 PM PT -- Video has surfaced showing a portion of the attack, you see one man continuously hit Tekashi while the rapper does his best to defend his face.\r\nTekashi 6ix9ine was savagely beaten by a… [+1231 chars]"
+    }
+    ]
+    }
